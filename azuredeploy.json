@@ -94,7 +94,7 @@
     },
     "webAppSKU": {
       "type": "string",
-      "defaultValue": "Free",
+      "defaultValue": "Basic",
       "allowedValues": [
         "Free",
         "Shared",
@@ -133,7 +133,7 @@
     },
     "azureSearchSku": {
       "type": "string",
-      "defaultValue": "free",
+      "defaultValue": "standard",
       "allowedValues": [
         "free",
         "standard",
