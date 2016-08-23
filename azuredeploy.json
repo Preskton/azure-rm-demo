@@ -53,8 +53,7 @@
       "type": "securestring",
       "metadata": {
         "description": "The SQL server admin password"
-      },
-      "defaultValue": "!Slalom@zure2016!"
+      }
     },
     "sqlDatabaseCollation": {
       "type": "string",
